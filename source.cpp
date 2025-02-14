@@ -1,6 +1,7 @@
 #include <iostream>
 
-void main()
+int main()
 {
 	std::cout << "Hello Github\n";
+	return 1;
 }
